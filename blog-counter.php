@@ -13,7 +13,7 @@
 
 add_shortcode( 'blog_counter', 'blog_counter_func' );
 
-/* update version 3 */
+/* update version 3 code update */
 
 function blog_counter_func(){
   
