@@ -13,6 +13,8 @@
 
 add_shortcode( 'blog_counter', 'blog_counter_func' );
 
+/* update version 2 */
+
 function blog_counter_func(){
   
     $arg = array(
